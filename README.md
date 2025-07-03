@@ -1,6 +1,9 @@
 ## 💫 About Me:
 I am currently working as a product manager. 
 Interested in the AI Product Manager opportunities.
+
+💻 Tech Stack:
+Python R HTML5 JavaScript Firebase AWS Netlify PythonAnywhere React Flask CSS3 Git scikit-learn TensorFlow Pandas NumPy Keras
 <!--
 **Sanjayh1/Sanjayh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

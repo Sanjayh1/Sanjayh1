@@ -21,7 +21,7 @@ Interested in the AI Product Manager opportunities.
 ![image](https://github.com/user-attachments/assets/29349fcd-7d35-4d9f-89d2-0ebfe0558aae)
 
 
-Python R HTML5 JavaScript Firebase AWS Netlify PythonAnywhere React Flask CSS3 Git scikit-learn TensorFlow Pandas NumPy Keras
+
 <!--
 **Sanjayh1/Sanjayh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

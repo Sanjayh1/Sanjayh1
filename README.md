@@ -3,6 +3,7 @@ I am currently working as a product manager.
 Interested in the AI Product Manager opportunities.
 
 💻 Tech Stack:
+![image](https://github.com/user-attachments/assets/8bf5efea-9487-44d7-8b8c-fb7b670cb122)
 Python R HTML5 JavaScript Firebase AWS Netlify PythonAnywhere React Flask CSS3 Git scikit-learn TensorFlow Pandas NumPy Keras
 <!--
 **Sanjayh1/Sanjayh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

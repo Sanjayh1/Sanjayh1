@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I am currently working as a product manager. 
+Interested in the AI Product Manager opportunities.
 <!--
 **Sanjayh1/Sanjayh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

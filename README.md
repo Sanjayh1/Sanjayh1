@@ -2,6 +2,9 @@
 I am currently working as a product manager. 
 Interested in the AI Product Manager opportunities.
 
+🌐 Socials:
+https://www.linkedin.com/in/sanjayharkawat/
+
 💻 Tech Stack:
 
 ![image](https://github.com/user-attachments/assets/8bf5efea-9487-44d7-8b8c-fb7b670cb122)

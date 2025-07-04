@@ -2,24 +2,25 @@
 I am currently working as a product manager. 
 Interested in the AI Product Manager opportunities.
 
-🌐 Socials:
+## 🌐 Socials:
 
-![image](https://github.com/user-attachments/assets/c7adc69a-1992-420e-983c-d2f758ff8d6c) https://www.linkedin.com/in/sanjayharkawat/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjayharkawat) 
 
 
-💻 Tech Stack:
+## 💻 Tech Stack:
 
-![image](https://github.com/user-attachments/assets/8bf5efea-9487-44d7-8b8c-fb7b670cb122)
-![image](https://github.com/user-attachments/assets/043575ab-e0a4-42d3-b444-aa2dff44ef0b)
-![image](https://github.com/user-attachments/assets/6d287f8f-7256-4946-90fc-fe4c13f28a3d)
-![image](https://github.com/user-attachments/assets/d988a5bd-6c2f-458d-9180-cc6a486c68e6)
-![image](https://github.com/user-attachments/assets/7c2dd311-e09f-4926-85e2-736df760ed47)
-![image](https://github.com/user-attachments/assets/a528bea6-395d-42a3-af84-4d4297c53e65)
-![image](https://github.com/user-attachments/assets/4a93c669-5577-455a-9da8-ebdcf5e43a63)
-![image](https://github.com/user-attachments/assets/cbd02582-b68a-4330-8053-c64517569cac)
-![image](https://github.com/user-attachments/assets/e5e759b2-cb27-4e30-8d58-da5ac813b0ee)
-![image](https://github.com/user-attachments/assets/29349fcd-7d35-4d9f-89d2-0ebfe0558aae)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 
 <!--

@@ -2,7 +2,7 @@
 I am currently working as a product manager. 
 Interested in the AI Product Manager opportunities.
 
-## 🌐 Socials:
+### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjayharkawat) 
 

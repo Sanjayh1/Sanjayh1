@@ -45,6 +45,7 @@ Interested in the AI Product Manager opportunities.
 ![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Lovable](https://shields.io)
 
 <!--
 **Sanjayh1/Sanjayh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

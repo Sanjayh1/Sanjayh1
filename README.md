@@ -72,7 +72,7 @@
 - [Shipped a high-fidelity AI product](https://substack.com/home/post/p-200322011)
 
 ###  ⚙️ Connect
-- [Glad you reached here and liked my Sweat Equity. Connect with me on LinkedIn](https://www.linkedin.com/in/sanjayharkawat)
+- Glad you reached here and liked my Sweat Equity. [Connect with me on LinkedIn](https://www.linkedin.com/in/sanjayharkawat)
 
 <!--
 **Sanjayh1/Sanjayh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,13 @@
 ### 💫 About Me:
-I am currently working as a product manager. 
+Product Leader | Agentic AI | Technology.
+I build AI-powered platforms that solve real customer problems — from 0→1 products to enterprise-scale deployments.
 Interested in the AI Product Manager opportunities.
+
+### What I Build
+- 🤖 Agentic AI products in production — RAG architectures, LLM-powered virtual assistants, hallucination mitigation.
+- 🔗 Partner ecosystems and API platforms — self-service onboarding, developer experience, B2B growth.
+- 📊 Growth and self-service platforms — funnel optimization, behavioral analytics, subscription models.
+- 🏦 Tehnology solutions — Fraud detection, Martech, Shipping Agents, Supply Chain Solutions, Compliance-first product delivery
 
 ### 🌐 Socials:
 

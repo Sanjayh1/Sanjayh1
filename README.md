@@ -63,6 +63,10 @@ Interested in the AI Product Manager opportunities.
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### Published articles
+- [What is the Cost of Your Forecast Error? ](https://ibf.org/knowledge/jbf-articles/what-is-the-cost-of-your-forecast-error-1020)
+- [Shipped a high-fidelity AI product](https://substack.com/home/post/p-200322011)
+
 <!--
 **Sanjayh1/Sanjayh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

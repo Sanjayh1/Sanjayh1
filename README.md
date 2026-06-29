@@ -1,7 +1,7 @@
 ### 💫 About Me:
-Product Leader | Agentic AI | Technology.
-I build AI-powered platforms that solve real customer problems — from 0→1 products to enterprise-scale deployments.
-Interested in the AI Product Manager opportunities.
+- Product Leader | Agentic AI | Technology.
+- I build AI-powered platforms that solve real customer problems — from 0→1 products to enterprise-scale deployments.
+- Interested in the AI Product Manager opportunities.
 
 ### What I Build
 - 🤖 Agentic AI products in production — RAG architectures, LLM-powered virtual assistants, hallucination mitigation.

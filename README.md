@@ -68,8 +68,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🖊️ Published articles
-- [What is the Cost of Your Forecast Error? ](https://ibf.org/knowledge/jbf-articles/what-is-the-cost-of-your-forecast-error-1020)
+
 - [Shipped a high-fidelity AI product](https://substack.com/home/post/p-200322011)
+- [What is the Cost of Your Forecast Error? ](https://ibf.org/knowledge/jbf-articles/what-is-the-cost-of-your-forecast-error-1020)
 
 ###  ⚙️ Connect
 - Glad you reached here and liked my Sweat Equity. [Connect with me on LinkedIn](https://www.linkedin.com/in/sanjayharkawat)

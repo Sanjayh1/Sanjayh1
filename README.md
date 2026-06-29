@@ -9,6 +9,10 @@ Interested in the AI Product Manager opportunities.
 - 📊 Growth and self-service platforms — funnel optimization, behavioral analytics, subscription models.
 - 🏦 Tehnology solutions — Fraud detection, Martech, Shipping Agents, Supply Chain Solutions, Compliance-first product delivery
 
+### Currently Exploring
+- MCP protocol and multi-agent orchestration patterns for enterprise workflows
+- Rapid prototyping with Claude and Lovable to validate product hypotheses faster
+
 ### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjayharkawat)
